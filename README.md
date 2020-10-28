@@ -1,1 +1,1 @@
-"Choropleth for freeCodeCamp" 
+Choropleth for freeCodeCamp
