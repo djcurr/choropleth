@@ -1,6 +1,6 @@
 #User Stories
 
-[] User Story #1: My choropleth should have a title with a corresponding id="title".
+[x] User Story #1: My choropleth should have a title with a corresponding id="title".
 
 [] User Story #2: My choropleth should have a description element with a corresponding id="description".
 
